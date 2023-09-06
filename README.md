@@ -14,7 +14,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](dashboard.PNG)
+![screenshot](dashboard.png)
 
 ## Problem
 
