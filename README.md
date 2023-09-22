@@ -8,6 +8,9 @@
 
 
 <p align="center">
+  
+  <a href="https://medium.com/@ismailouahbi/unlocking-the-secrets-of-casablancas-stock-market-part-i-605fe487f0ee">Blog Post-Part I-</a>
+  <a href="#">Blog Post-Part II-</a>
   <a href="#problem">Problem</a> •
   <a href="#solution">Solution</a> •
   <a href="#how-to-use">How To Use</a> •
